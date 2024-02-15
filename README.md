@@ -96,7 +96,7 @@ Surge motion, a fundamental movement, should exhibit stability during execution.
 During our analysis, heave motion, considered a fundamental movement of the craft, should ideally demonstrate stability during execution. By activating the vertical thruster at 30\% power in the positive z-axis direction, the craft dived into the water.
 
 <div align="center">
-<img src = "Images/heave.jpg" width="100%">
+<img src = "Images/Heave.jpg" width="100%">
 <p>Simulation Results for Case II</p>
 </div>
 
