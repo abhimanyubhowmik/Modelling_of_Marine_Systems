@@ -78,7 +78,7 @@ $$
 ### Simulation Setup
 
 <div align="center">
-<img src = "Images/simulation.png" width="100%">
+<img src = "Images/Simulation.png" width="100%">
 <p>Simulation Setup in MatLAB</p>
 </div>
 
