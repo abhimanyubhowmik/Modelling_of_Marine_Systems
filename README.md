@@ -11,6 +11,8 @@ Group Members:
 * Abhimanyu Bhowmik
 * Madhushree Sannigrahi
 
+<iframe src="https://collaborate.shapr3d.com/v/d_FCLpX64_0JoLZ2hRbQQ" title="Shapr3D Webviewer" width="640" height="640" frameborder="0" allow="web-share; xr-spatial-tracking" loading="lazy" scrolling="no" referrerpolicy="origin-when-cross-origin" allowfullscreen></iframe>
+
 <div align="center">
 <img src = "Images/sparus.png" width="100%">
 <p>The Sparus AUV</p>
